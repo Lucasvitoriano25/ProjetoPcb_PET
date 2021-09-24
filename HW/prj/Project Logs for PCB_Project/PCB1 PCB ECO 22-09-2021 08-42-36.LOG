@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=VCC Pin=Diodeout-Pad
+Removed Member From Class: ClassName=Sheet1 Member=Diodein
+Removed Member From Class: ClassName=Sheet1 Member=Diodeout
+Added Pin To Net: NetName=VCC Pin=C2-+
